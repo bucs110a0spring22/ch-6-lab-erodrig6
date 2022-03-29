@@ -8,18 +8,20 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program is used to count how many values are  in the sequence until it stops at 1, and then use an upper bound value to draw a line graph representing the number of iterations used
+
+
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+na
 
 ## REFERENCES:
- < List any outside resources used >
+ geeksforgeek
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+na
